@@ -1,6 +1,8 @@
 # Temporal samples for Symfony
 
-This repo provides sample applications and Docker Compose config to easily get started with [Temporal durable workflows](https://temporal.io/) and Symfony.
+This repo provides sample applications and Docker Compose config to easily get started with [Temporal durable workflows](https://temporal.io/) and Symfony. 
+
+> 2026-02-28: This repository is now archived. See [https://github.com/lagdo/temporal-php](https://github.com/lagdo/temporal-php).
 
 ## The applications
 
@@ -39,3 +41,4 @@ Docker Nginx Unit PHP
 
 Docker PHP
 - https://github.com/pabloripoll/docker-php-8.3-service
+
